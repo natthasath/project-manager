@@ -1,0 +1,17 @@
+| ID     | Requirement                | Description                                                                                          | Priority | Notes                                        |
+|--------|----------------------------|--------------------------------------------------------------------------------------------------|----------|----------------------------------------------|
+| FR-001 | User Authentication        | The system must allow users to register, log in, and log out.                                       | High     | Implement OAuth for social logins.          |
+| FR-002 | Profile Management         | Users should be able to create and manage their profiles, including personal information and payment methods. | High     | Allow updating of personal details.         |
+| FR-003 | Search Functionality       | The system should provide search functionality to find hotels by location, dates, and other filters. | High     | Support advanced search filters (e.g., price range, star rating). |
+| FR-004 | Hotel Listings             | The system must display hotel listings with details such as descriptions, prices, and availability. | High     | Include images, amenities, and reviews.     |
+| FR-005 | Booking Management         | Users must be able to book hotels, view, modify, and cancel their reservations.                     | High     | Support real-time availability updates.     |
+| FR-006 | Payment Processing         | The system should handle payment processing securely, supporting multiple payment methods.          | High     | Implement encryption for payment data.      |
+| FR-007 | Booking Confirmation       | Users should receive confirmation emails or notifications for their bookings.                      | High     | Include booking details and cancellation policies. |
+| FR-008 | Reviews and Ratings        | Users should be able to leave reviews and ratings for hotels they have stayed in.                    | Medium   | Implement moderation for reviews.           |
+| FR-009 | Wishlist                   | Users should be able to add hotels to a wishlist for future reference.                              | Medium   | Allow sharing of wishlists.                 |
+| FR-010 | Special Offers and Discounts| The system should display special offers, discounts, and promotions for hotels.                    | Medium   | Highlight deals and limited-time offers.   |
+| FR-011 | Multi-Language Support     | The system should support multiple languages for international users.                              | Medium   | Include language selection options.         |
+| FR-012 | Mobile Compatibility       | The system should be fully functional on mobile devices and include a mobile app.                  | High     | Optimize for various screen sizes.          |
+| FR-013 | Customer Support           | The system should provide customer support options such as live chat, email, or phone support.      | High     | Include an FAQ section and help resources.  |
+| FR-014 | Notification System        | The system should send notifications for booking updates, promotions, and reminders.                | Medium   | Allow users to customize notification preferences. |
+| FR-015 | Data Privacy and Security  | Ensure that user data is handled securely and in compliance with data protection regulations.        | High     | Implement data encryption and access controls. |

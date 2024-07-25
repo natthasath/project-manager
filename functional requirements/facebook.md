@@ -1,0 +1,20 @@
+| ID     | Requirement             | Description                                                                                      | Priority | Notes                                        |
+|--------|-------------------------|--------------------------------------------------------------------------------------------------|----------|----------------------------------------------|
+| FR-001 | User Authentication     | The system must allow users to register, log in, and log out.                                     | High     | Implement OAuth for social logins.          |
+| FR-002 | Profile Management      | Users should be able to create and manage their profile, including updating personal information, profile picture, and cover photo. | High     | Allow private profiles.                    |
+| FR-003 | Friend Management       | Users must be able to send, receive, and manage friend requests.                                  | High     | Include friend list management.             |
+| FR-004 | Post Creation           | Users should be able to create and share posts with text, images, videos, and links.              | High     | Include support for tagging friends and locations. |
+| FR-005 | Post Interaction        | Users should be able to like, comment on, and share posts.                                        | High     | Implement threaded comments.                |
+| FR-006 | News Feed               | The system should provide a personalized news feed with posts from friends and pages.              | High     | Include options to filter and sort content. |
+| FR-007 | Notifications           | The system should send notifications for interactions such as likes, comments, and friend requests. | High     | Allow customization of notification preferences. |
+| FR-008 | Messaging               | Users should be able to send and receive private messages, including group chats.                 | High     | Implement multimedia support in messages.   |
+| FR-009 | Event Management        | Users must be able to create, manage, and RSVP to events.                                          | Medium   | Include event reminders and notifications.  |
+| FR-010 | Group Management        | Users should be able to create and join groups, as well as manage group memberships and settings.  | Medium   | Include group moderation tools.             |
+| FR-011 | Page Management         | Users should be able to create and manage pages for businesses, public figures, or organizations.   | Medium   | Provide page analytics and advertising tools.|
+| FR-012 | Privacy Settings        | Users must be able to manage privacy settings, such as who can see their posts and personal information. | High     | Include granular privacy controls.          |
+| FR-013 | Content Moderation      | The system must include tools for reporting and moderating inappropriate content.                  | High     | Implement automated content filters and human moderation. |
+| FR-014 | Data Export             | Users should be able to export their data, including posts, messages, and friend lists.              | Medium   | Ensure data privacy compliance.             |
+| FR-015 | Analytics and Insights  | Provide users with insights about their post performance, engagement, and page metrics.             | Medium   | Include summary reports and visualizations. |
+| FR-016 | Marketplace             | Users should be able to browse and post items for sale in a marketplace.                           | Low      | Include search and filter options.          |
+| FR-017 | Live Streaming          | Users should be able to broadcast live video to their followers.                                   | Medium   | Support interaction during live streams (e.g., comments). |
+| FR-018 | Authentication Security | The system must ensure secure authentication methods, including two-factor authentication (2FA).   | High     | Implement encryption and security best practices. |

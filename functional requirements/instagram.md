@@ -1,0 +1,17 @@
+| ID     | Requirement             | Description                                                                                     | Priority | Notes                                        |
+|--------|-------------------------|-------------------------------------------------------------------------------------------------|----------|----------------------------------------------|
+| FR-001 | User Authentication     | The system must allow users to register, log in, and log out.                                    | High     | Implement OAuth for social logins.          |
+| FR-002 | Profile Management      | Users should be able to create and manage their profile, including updating bio, profile picture, and story highlights. | High     | Allow private accounts.                    |
+| FR-003 | Post Creation           | Users must be able to create and publish posts with captions, images, and videos.                | High     | Support multiple media formats.            |
+| FR-004 | Post Interaction        | Users should be able to like, comment on, and share posts.                                      | High     | Implement threaded comments.               |
+| FR-005 | Follow/Unfollow Users   | Users must be able to follow and unfollow other users.                                            | High     | Display follower/following counts.          |
+| FR-006 | Stories                 | Users should be able to create and view stories that disappear after 24 hours.                    | High     | Include features for adding stickers and filters. |
+| FR-007 | Notifications           | The system should send notifications for interactions such as likes, comments, follows, and direct messages. | High     | Allow customization of notification preferences. |
+| FR-008 | Search Functionality    | The system should provide search functionality to find users, hashtags, and locations.            | High     | Include advanced search filters.           |
+| FR-009 | Direct Messaging        | Users should be able to send private messages to other users, including text, images, and videos.  | High     | Implement message threads and multimedia support. |
+| FR-010 | Explore Feed            | The system should display an explore feed with content recommendations based on user interests and interactions. | Medium   | Update recommendations in real-time.       |
+| FR-011 | Content Moderation      | The system must include tools for reporting and moderating inappropriate content.                 | High     | Implement automated content filters and human moderation. |
+| FR-012 | Account Privacy Settings| Users must be able to manage privacy settings, such as who can see their posts and send them messages. | High     | Include options for account visibility (public, private). |
+| FR-013 | Media Uploads           | Users should be able to upload and attach images and videos to their posts and stories.            | High     | Support various media formats and resolutions. |
+| FR-014 | Analytics and Insights  | Provide users with analytics and insights about their post performance, follower growth, and engagement. | Medium   | Include summary reports and graphs.        |
+| FR-015 | Shopping Integration    | Users should be able to browse and purchase products directly from posts and stories.               | Medium   | Integrate with e-commerce platforms.       |

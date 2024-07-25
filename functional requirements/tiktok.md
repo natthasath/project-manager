@@ -1,0 +1,17 @@
+| ID     | Requirement              | Description                                                                                      | Priority | Notes                                        |
+|--------|--------------------------|--------------------------------------------------------------------------------------------------|----------|----------------------------------------------|
+| FR-001 | User Authentication      | The system must allow users to register, log in, and log out.                                      | High     | Implement OAuth for social logins.          |
+| FR-002 | Profile Management       | Users should be able to create and manage their profile, including updating bio, profile picture, and username. | High     | Allow private profiles and profile customization. |
+| FR-003 | Video Uploading          | Users must be able to upload and post videos with options to add captions, hashtags, and music.     | High     | Support various video formats and resolutions. |
+| FR-004 | Video Playback           | Users should be able to view videos with playback controls such as play, pause, rewind, and fast forward. | High     | Implement video quality adjustments based on connection. |
+| FR-005 | Video Interaction        | Users should be able to like, comment, and share videos.                                           | High     | Include support for reactions and emojis.   |
+| FR-006 | Following/Followers      | Users must be able to follow and unfollow other users, and view their list of followers and following. | High     | Display follower/following counts and recommendations. |
+| FR-007 | Notifications            | The system should send notifications for interactions such as likes, comments, follows, and mentions. | High     | Allow customization of notification preferences. |
+| FR-008 | Content Discovery        | The system should provide content discovery features including a "For You" page and search functionality. | High     | Include advanced search filters and trending content. |
+| FR-009 | Direct Messaging         | Users should be able to send private messages and create group chats.                               | Medium   | Implement multimedia support in messages.   |
+| FR-010 | Content Moderation       | The system must include tools for reporting and moderating inappropriate content.                  | High     | Implement automated content filters and human moderation. |
+| FR-011 | Effects and Filters      | Users should be able to apply effects, filters, and AR features to their videos.                    | High     | Include a library of effects and filters.   |
+| FR-012 | Music Integration        | Users must be able to add music and sound effects to their videos from a built-in library.          | High     | Implement licensing and copyright management. |
+| FR-013 | Live Streaming           | The system should support live streaming, allowing users to broadcast video content in real-time.   | Medium   | Include real-time interactions (e.g., comments, gifts). |
+| FR-014 | Analytics and Insights   | Provide users with analytics about their video performance, engagement metrics, and follower growth. | Medium   | Include summary reports and graphs.         |
+| FR-015 | Data Export              | Users should be able to export their data, including videos, likes, and follower information.        | Medium   | Ensure data privacy compliance.             |

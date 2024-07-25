@@ -1,0 +1,19 @@
+| ID     | Requirement                | Description                                                                                         | Priority | Notes                                       |
+|--------|----------------------------|-----------------------------------------------------------------------------------------------------|----------|---------------------------------------------|
+| FR-001 | User Authentication        | The system must allow users to register, log in, and log out.                                        | High     | Implement OAuth and social media logins.    |
+| FR-002 | Profile Management         | Users should be able to create and manage their profile, including updating personal information and payment methods. | High     | Include support for address management.     |
+| FR-003 | Product Listings           | Sellers must be able to list products with details such as title, description, price, and images.   | High     | Support various product categories.         |
+| FR-004 | Search Functionality       | The system should provide search functionality to find products by name, category, or brand.         | High     | Include advanced search filters.            |
+| FR-005 | Product Reviews            | Users should be able to rate and review products they have purchased.                                | Medium   | Include review moderation tools.            |
+| FR-006 | Shopping Cart              | Users must be able to add products to a shopping cart and view/edit the cart’s contents.             | High     | Support multiple items and quantities.      |
+| FR-007 | Checkout Process           | The system must support a checkout process, including address entry, payment processing, and order confirmation. | High     | Implement multiple payment methods.         |
+| FR-008 | Order Tracking             | Users should be able to track their orders, including shipment status and delivery updates.          | High     | Provide real-time tracking information.     |
+| FR-009 | Notifications              | The system should send notifications for order status updates, promotions, and important alerts.    | Medium   | Allow customization of notification preferences. |
+| FR-010 | Wishlist                   | Users should be able to create and manage a wishlist of products they are interested in.             | Medium   | Allow sharing of wishlists.                 |
+| FR-011 | Seller Management          | Sellers must be able to manage their inventory, view sales reports, and handle customer inquiries.    | High     | Include analytics and performance metrics.  |
+| FR-012 | Returns and Refunds        | The system must support return and refund requests, including a process for handling disputes.       | High     | Implement return policy and tracking.       |
+| FR-013 | Mobile Compatibility       | The system should be fully responsive and functional on mobile devices.                              | High     | Ensure a consistent user experience across devices. |
+| FR-014 | Promotions and Discounts   | The system should support promotions, discount codes, and special offers.                           | Medium   | Include expiration dates and usage limits.  |
+| FR-015 | Customer Support           | Provide a customer support feature, including chat, email, and phone support.                       | High     | Implement support ticket tracking.          |
+| FR-016 | Data Security              | Ensure that user data and payment information are stored securely and comply with data protection regulations. | High     | Implement encryption and secure protocols.  |
+| FR-017 | Analytics and Reporting    | Provide analytics and reporting tools for sales, user behavior, and system performance.              | Medium   | Include customizable reports and dashboards. |
